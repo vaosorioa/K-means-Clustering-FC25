@@ -1,2 +1,2 @@
 # K-means-Clustering-FC25
-El presente proyecto pretende catalogar a los jugadores de FC25 en las cuatro posiciones principales del campo.
+El presente proyecto de aprendizaje pretende catalogar a los jugadores de FC25 en las cuatro posiciones principales del campo. Primero se realiza un analsis exploratorio para el entendimiento, imputacion y organizacion de lso datos, luego se aplica el algoritmo K-means y K-means ++, por ultimo se genera desde cero el algoritmo K-means aplicando tres tipos de metricas diferentes para medir la similitud (Euclidiana, mahalanobis y L1)
